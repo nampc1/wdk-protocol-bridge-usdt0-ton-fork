@@ -46,7 +46,7 @@ const BRIDGE_ULN_CONFIGS = {
   USDT_TON_ETHEREUM: {
     confirmations: '2',
     confirmationsNull: false,
-    executor: '0x0', 
+    executor: '0x0',
     executorNull: true,
     maxMessageBytes: '522',
     optionalDVNs: [],
